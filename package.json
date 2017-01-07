@@ -1,0 +1,27 @@
+{
+  "name": "chart-buildr",
+  "version": "1.0.0",
+  "description": "Simple, reusable chart building interface for the D3 data visualization library.",
+  "scripts": {
+    "serve": "python -m SimpleHTTPServer 8888"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kripple/ChartBuildr.git"
+  },
+  "keywords": [
+    "d3",
+    "reuseable",
+    "charts"
+  ],
+  "author": "Kelly Ripple",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kripple/ChartBuildr/issues"
+  },
+  "homepage": "https://github.com/kripple/ChartBuildr#readme",
+  "dependencies": {
+    "d3": "^4.4.1",
+    "d3-tip": "^0.7.1"
+  }
+}
